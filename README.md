@@ -1,1 +1,1 @@
-# Taller-Pensamiento-Computacion
+# Taller-Pensamiento-Computacional
